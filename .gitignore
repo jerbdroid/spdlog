@@ -95,3 +95,6 @@ cmake-build-*/
 *.xcodeproj/
 
 MODULE.bazel.lock
+/.vs
+/out/build
+/CMakeSettings.json
